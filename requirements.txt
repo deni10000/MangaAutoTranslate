@@ -2,7 +2,6 @@ albumentations>=2.0.0
 fonttools>=4.54.0
 gradio>=6.0.0
 huggingface_hub>=1.17.0
-jaconv>=0.5.0
 llama-cpp-python
 numpy>=2.0.0
 openai>=2.0.0
@@ -21,3 +20,5 @@ tqdm>=4.67.0
 transformers>=5.8.0
 ultralytics>=8.4.0
 paddleocr
+fugashi
+unidic-lite
