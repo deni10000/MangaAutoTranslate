@@ -1,4 +1,5 @@
 # Manga Translator Pipeline
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deni10000/MangaAutoTranslate/blob/master/demo.ipynb)
 
 Автоматический перевод манги: детекция → OCR → перевод → inpainting → рендеринг текста.
 
